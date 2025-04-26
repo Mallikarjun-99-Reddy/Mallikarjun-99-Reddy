@@ -44,7 +44,7 @@ An airport lounge access management system that sends notifications after the 2-
 ## 🌐 Connect with Me
 - **LinkedIn:** [Mallikarjun Reddy](https://www.linkedin.com/in/mallikarjun-99-reddy)
 - **Portfolio:** [Mallikarjun Reddy - Portfolio](https://mallikarjun-99-reddy.github.io/self-portfolio/)
-- **Email:** mallikarjunreddy99@gmail.com
+- **Email:** mallikarjunreddynaru4@gmail.com
 
 ---
 
