@@ -42,7 +42,7 @@ An airport lounge access management system that sends notifications after the 2-
 ---
 
 ## 🌐 Connect with Me
-- **LinkedIn:** [Mallikarjun Reddy](https://www.linkedin.com/in/mallikarjun-99-reddy)
+- **LinkedIn:** [Mallikarjun Reddy](https://www.linkedin.com/in/mallikarjunreddynaru/)
 - **Portfolio:** [Mallikarjun Reddy - Portfolio](https://mallikarjun-99-reddy.github.io/self-portfolio/)
 - **Email:** mallikarjunreddynaru4@gmail.com
 
